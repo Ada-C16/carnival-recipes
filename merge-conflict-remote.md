@@ -18,13 +18,13 @@ With this activity you will be able to encounter and resolve merge conflicts in 
 
 Before we can start putting the recipe together we need to make sure that everyone in your group is working from the same starting point and can effectively contribute to the recipe building effort.
 
-1. **Split into groups**: The class will be divided into groups by Homeroom. These groups will be your groups for the project next week. 
-   - Breakout Rooms 1, 7, 13: Aardvark
-   - Breakout Room 2, 8, 14: Tarsier
-   - Breakout Room 3, 9, 15: Gecko
-   - Breakout Room 4, 10, 16: Sloth
-   - Breakout Room 5, 11, 17: Lionfish
-   - Breakout Room 6, 12, 18: Pangolin
+1. **Split into groups**:
+   - Breakout Rooms 1, 7: Aardvark
+   - Breakout Room 2, 8: Tarsier
+   - Breakout Room 3, 9: Gecko
+   - Breakout Room 4, 10: Sloth
+   - Breakout Room 5, 11: Lionfish
+   - Breakout Room 6, 12: Pangolin
  
 1. **Fork the activity repo**: One person in your group should fork the [carnival-recipes](https://github.com/AdaGold/carnival-recipes) repo and then add everyone else as a collaborator.
     - To add collaborators, go to **Settings** --> **Manage access** --> **Invite teams or people**
